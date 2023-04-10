@@ -6,7 +6,7 @@ const { setTimeout } = require('timers/promises');
 
 console.log(chalk.blueBright.bold(`Logging into ${process.env.playername}...`));
 
-// Create the bot
+/// Create the bot
 const bot = mineflayer.createBot({
 	host: process.env.host || 'localhost',
 	port: parseInt(process.env.port) || '25565',
