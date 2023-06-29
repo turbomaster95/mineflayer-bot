@@ -16,7 +16,7 @@
     "flying-squid": "^1.5.0",
     "fs": "^0.0.1-security",
     "mineflayer": "^4.8.1",
-    "mineflayer-pathfinder": "^2.4.2",
+    "mineflayer-pathfinder": "^2.4.4",
     "npm": "^9.6.4",
     "prismarine-viewer": "^1.25.0",
     "timers": "^0.1.1"
